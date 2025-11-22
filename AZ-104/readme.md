@@ -1,4 +1,4 @@
-# 🧭 AZ-104 – Microsoft Azure Administrator  
+# AZ-104 – Microsoft Azure Administrator  
 ### *Repositorio de prácticas, laboratorios y notas técnicas*
 
 Este directorio forma parte de mi proceso de preparación para la certificación **Microsoft Azure Administrator (AZ-104)**.  
@@ -49,7 +49,7 @@ Al finalizar cada módulo, incluiré un pequeño documento con:
 
 ---
 
-## 🎯 Propósito de esta carpeta
+## Propósito de esta carpeta
 
 Este espacio está diseñado para:
 
