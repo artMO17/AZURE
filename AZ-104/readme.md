@@ -59,7 +59,4 @@ Este espacio está diseñado para:
 - Servir como biblioteca personal de referencia técnica  
 - Compartir mi aprendizaje con otros estudiantes de Azure  
 
----
-
-## 🧩 Estructura recomendada
 
